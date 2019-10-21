@@ -2,7 +2,7 @@
 
 Video presentation (in romaniam):
 
-[![Watch the video](/Photos/)](https://www.youtube.com/watch?v=v0XAj81dnzg)
+[![Watch the video](<img src="Photos/IMG_1822.JPG" width=450>)](https://www.youtube.com/watch?v=v0XAj81dnzg)
 
 
 
