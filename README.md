@@ -1,6 +1,9 @@
 # Simple CNC Machine project
 
-<img src="Photos/IMG_3699.JPG" width=650>
+Video presentation (in romaniam):
+
+[![Watch the video](/Photos/)](https://www.youtube.com/watch?v=v0XAj81dnzg)
+
 
 
 This was a semester project during my years at the engineering university.
