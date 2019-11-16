@@ -1,6 +1,6 @@
 # Simple CNC Machine project
 
-Video presentation (in romaniam):
+Video presentation (in romaniam, click below):
 
 [![Watch the video](https://img.youtube.com/vi/v0XAj81dnzg/0.jpg)](https://www.youtube.com/watch?v=v0XAj81dnzg)
 
